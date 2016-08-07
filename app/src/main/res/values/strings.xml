@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PublicKey Pinning</string>
+    <string name="fetch_repo">Fetch Repo</string>
+</resources>
